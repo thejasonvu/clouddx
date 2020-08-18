@@ -2,7 +2,9 @@
 
 Cloud DX, a technology company offering digital tools for measuring health, has requested an application from students at Mohawk College that will calculate their existing products’ return-on-investment (ROI) for prospective customers. ROI will be calculated based on various factors such as current staff size, current EMR being used, and amount of remote-care patients. Once ROI has been calculated and shown to the users, the user should then be presented with next-steps (Cloud DX’s offerings). In addition to this, the application should also provide the company’s customer relationship management (CRM) software information about the potential customer in order to generate leads for the company’s sales team.
 
-This application is a prototype has never been published and has been stripped of any sensitive data.
+## Disclaimer
+
+This application has never been published, stripped of any sensitive information, and will never be used. Posted with permission.
 
 ## Getting Started
 
