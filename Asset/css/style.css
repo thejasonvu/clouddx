@@ -1,0 +1,32 @@
+.bg
+{
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    
+    background: rgb(0,96,225);
+    background: linear-gradient(135deg, rgba(0,96,225,1) 0%, rgba(0,124,225,1) 35%, rgba(0,212,255,1) 100%);
+    
+}
+
+.jumbotron, .card
+{
+    box-shadow: 0 4px 4px rgba(35,35,35,0.5);
+}
+
+.card
+{
+    margin-bottom: 1em !important;
+}
+
+nav
+{
+    border-bottom: 1px solid #e9ecef;
+}
+
+footer 
+{
+    padding-top: 1.5rem;
+    color: #777;
+    border-top: .05rem solid #e5e5e5;
+}
